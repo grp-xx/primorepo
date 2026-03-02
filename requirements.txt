@@ -1,0 +1,21 @@
+# NPL 2026 - Dipendenze Python
+
+# Jupyter
+notebook>=7.0.0
+jupyterlab>=4.0.0
+
+# NLP libraries
+nltk>=3.8.0
+spacy>=3.7.0
+transformers>=4.38.0
+datasets>=2.18.0
+
+# Scientific computing
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Utilities
+tqdm>=4.66.0
